@@ -1,3 +1,5 @@
  hello this is sunyana here ,, saying helloi`i:`
 
- adding new changes to add directly to staging area""
+ adding new changes to add directly to staging area"
+
+ Adding more text to see the changes via using command diff"
