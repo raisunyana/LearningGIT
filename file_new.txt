@@ -1,3 +1,6 @@
  HEllo I am a new file being tested from remote to master
 
  This is to test the Q1 clone merge changes 
+
+ This is the new change for testing Q3
+
