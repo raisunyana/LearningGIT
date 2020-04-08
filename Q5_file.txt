@@ -1,3 +1,6 @@
  this file is used to check on stashing
 
- I am inside the branch Q5 now``
+ I am inside the branch Q5 now`
+
+ Adding additional changes to this file `:wq!
+  i am adding changes to file in the Q5 branch`
