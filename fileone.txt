@@ -1,5 +1,5 @@
- hello this is sunyana here ,, saying helloi`i:`
+      hello this is sunyana here ,, saying helloi`i:`
 
  adding new changes to add directly to staging area"
 
- Adding more text to see the changes via using command diff"
+i   Adding more text to see the changes via using command diff"
