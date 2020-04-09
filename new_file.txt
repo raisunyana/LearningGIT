@@ -1,4 +1,5 @@
  this is to work on 3 way merge
 
  This change is in master
+ this is new change in master to check merge conflicts - 3 way merge
 
